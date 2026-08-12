@@ -13,7 +13,7 @@ Yandex Samokat — сервис для заказа самоката на опр
 - [Макеты веб-приложения в Figma](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?t=VBCtCXYTlcf0DeTw-0)
 - [Требования к мобильному приложению](https://code.s3.yandex.net/qa/files/requirements_mob_app.pdf)
 - [Макеты мобильного приложения в Figma](https://www.figma.com/design/kqLqPvSvjLVLomkdadkAnk/mobile?node-id=0-1&p=f&t=XJBo73QY9XmOOfZQ-0)
-- [Документация API](https://code.s3.yandex.net/qa/files/requirements_backend.pdf)
+- [Требования к backend](https://code.s3.yandex.net/qa/files/requirements_backend.pdf)
 
 ## Задачи тестирования
 
