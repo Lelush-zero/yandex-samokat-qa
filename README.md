@@ -13,7 +13,7 @@
 - [Требования к мобильному приложению](https://code.s3.yandex.net/qa/files/requirements_mob_app.pdf)
 - [Документация API](https://code.s3.yandex.net/qa/files/requirements_backend.pdf)
 - [Макеты Figma](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?t=VBCtCXYTlcf0DeTw-0)
-- 
+
 ## Что тестировалось
 
 ### Web
