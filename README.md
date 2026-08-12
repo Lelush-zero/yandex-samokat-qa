@@ -35,10 +35,10 @@
 ## Тестовая документация
 
 * [Веб-приложение — чек-лист и валидация](https://docs.google.com/spreadsheets/d/1oHaIBSuCiG5lhyNFCBoWDnS71chVH0AJ-5LlpRc7nKQ/edit?usp=sharing)
-* [Мобильное приложение — тест-кейсы](Мобильное приложение Яндекс.Самокат.xlsx)
-* [API — чек-лист](API приложения Яндекс.Самокат.xlsx)
-* [Баг-репорты](Баг-репорты.xlsx)
-* [Баг-репорты по макетам Figma](Баг-репорты Figma.xlsx)
+* [Мобильное приложение — тест-кейсы](https://docs.google.com/spreadsheets/d/1Aek2wVoF0RXOPEBuXsoh7qgx3TdtAwbYRnnwsvhTf5w/edit?usp=sharing)
+* [API — чек-лист](https://docs.google.com/spreadsheets/d/1GBo1qxCcuq_Dm6bUCA8ghbLefpPvZXl1V7FFOezVMA4/edit?usp=sharing)
+* [Баг-репорты](https://docs.google.com/spreadsheets/d/1MzDqcwpLrwkJc9kOOKfOoMmeSxVG51Z2XmxwKHAoIOE/edit?usp=sharing)
+* [Баг-репорты по макетам Figma](https://docs.google.com/spreadsheets/d/1O-RZol7hhZ_LA5g0xQlAFVMpPK-pxj0t7GtU7ikF1fg/edit?usp=sharing)
 
 ## Инструменты
 
