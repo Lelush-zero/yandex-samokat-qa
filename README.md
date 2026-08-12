@@ -4,6 +4,16 @@
 
 В рамках проекта проведено тестирование веб-приложения, мобильного Android-приложения для курьеров и REST API. Подготовлена тестовая документация, выполнены позитивные и негативные проверки, оформлены найденные дефекты.
 
+
+Яндекс.Самокат — сервис, который позволяет арендовать электрический самокат на несколько дней.
+
+## Исходные материалы проекта
+
+- [Требования к веб-приложению](https://code.s3.yandex.net/qa/files/requirements_web_app_1.1.pdf)
+- [Требования к мобильному приложению](https://code.s3.yandex.net/qa/files/requirements_mob_app.pdf)
+- [Документация API](https://code.s3.yandex.net/qa/files/requirements_backend.pdf)
+- [Макеты Figma](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?t=VBCtCXYTlcf0DeTw-0)
+- 
 ## Что тестировалось
 
 ### Web
