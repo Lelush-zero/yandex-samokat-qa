@@ -1,6 +1,3 @@
-# yandex-samokat-qa
-QA project: Web, Mobile and API testing of Yandex Samokat
-
 # Yandex Samokat — Web, Mobile & API Testing
 
 Самостоятельный QA-проект по тестированию сервиса **Yandex Samokat**.
